@@ -1,0 +1,1 @@
+Go through emails stored in Apple's Mail.app, printing out email addresses that match certain rules.  Useless to everyone else without modification, use it as example code on how to interact with an Apple app using Python via the > Mac OS X 10.5 Scripting Bridge.
